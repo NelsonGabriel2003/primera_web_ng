@@ -23,7 +23,7 @@ alert("Estamos en la vuelta numero "+ (i-1));
 */
 //------------------------------------------------------------
 
-// El concepto de FOR es una estructura repetitiva pero que se 
+// El concepto de do-while es una estructura repetitiva pero que se 
 // evalua al menos una vez SIEMPRE :
 /*
 var i=0;
@@ -47,3 +47,4 @@ console.log("Su número es: " + numero);
 
 */
 //------------------------------------------------------------
+
